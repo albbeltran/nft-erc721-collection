@@ -17,7 +17,10 @@
     }
   ],
   "image": {
-    "href": "66.png",
-    "hash": "654ac468149fc3f4dd8aa6f6c66744397543a4e301745bdb9307cee5413b7ad2"
+    "href": "https://ipfs.io/ipfs/bafybeiglym7bnekbwglbvetetjr5vhtllm4za6di6gxggcch5jcaweziju/66.png",
+    "hash": "654ac468149fc3f4dd8aa6f6c66744397543a4e301745bdb9307cee5413b7ad2",
+    "ipfsUri": "ipfs://bafybeiglym7bnekbwglbvetetjr5vhtllm4za6di6gxggcch5jcaweziju/66.png",
+    "ipfsCid": "bafybeiglym7bnekbwglbvetetjr5vhtllm4za6di6gxggcch5jcaweziju",
+    "fileName": "66.png"
   }
 }
