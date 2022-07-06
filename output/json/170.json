@@ -1,0 +1,23 @@
+{
+  "name": "#170",
+  "description": "TestWeirdFaces",
+  "edition": 170,
+  "attributes": [
+    {
+      "trait_type": "face",
+      "value": "face2"
+    },
+    {
+      "trait_type": "head",
+      "value": "head7"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes2"
+    }
+  ],
+  "image": {
+    "href": "170.png",
+    "hash": "aee4fca141f8eec4f98b17567c400b6a04fff31b70cc7c71732b48f479f80b67"
+  }
+}
