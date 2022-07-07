@@ -34,5 +34,6 @@
         }
       ]
     }
-  ]
+  ],
+  "nftStorageApiToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDYwZTQwNWVkZDQ4Y2E4YzM1MDRCNjgxRjIwNjBlMzRCYjY0N0I3ODAiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY1NzE1MDk4Nzk2OSwibmFtZSI6Im5mdC1jaW5jZWwifQ.16It-wwAesEzI-P-rOme8j9bTDXatctoaOqSqs0t5vw"
 }
